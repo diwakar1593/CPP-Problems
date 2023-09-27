@@ -31,7 +31,7 @@ Given an array of intervals intervals where intervals[i] = [starti, endi], retur
 
 #### Constraints:
 
-* 1 <= intervals.length <= 10 ^5^
+* 1 <= intervals.length <= 10^5
 * intervals[i].length == 2
-* -5 * 10 ^4^ <= starti < endi <= 5 * 10 ^4^
+* -5 * 10^4 <= starti < endi <= 5 * 10^4
 
