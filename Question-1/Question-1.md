@@ -27,7 +27,7 @@ You must write an algorithm with O(log n) runtime complexity.
 
 #### Constraints:
 
-* 0 <= nums.length <= 105
-* -109 <= nums[i] <= 109
+* 0 <= nums.length <= 10^5
+* -10^9 <= nums[i] <= 10^9
 * nums is a non-decreasing array.
-* -109 <= target <= 109
+* -10^9 <= target <= 10^9
