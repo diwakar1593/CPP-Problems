@@ -7,6 +7,7 @@ SR No   | Program | Problem Link
 3 | Sort Array By Parity | [Link](https://leetcode.com/problems/sort-array-by-parity/)
 4 | Count Complete Tree Nodes | [Link](https://leetcode.com/problems/count-complete-tree-nodes/)
 5 | Maximum Width of Binary Tree | [Link](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+6|Sliding Window Technique [Link](https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1?page=1&category[]=Arrays&category[]=sliding-window&sortBy=submissions)
 
 
 ### Author : [Diwakar Kumar](https://github.com/diwakar1593)
